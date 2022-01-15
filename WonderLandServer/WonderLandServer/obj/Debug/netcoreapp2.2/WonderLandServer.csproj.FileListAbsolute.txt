@@ -1,0 +1,48 @@
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.deps.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.runtimeconfig.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.runtimeconfig.dev.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.dll
+C:\Project .NET\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.csprojAssemblyReference.cache
+C:\Project .NET\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.RazorAssemblyInfo.cache
+C:\Project .NET\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.RazorAssemblyInfo.cs
+C:\Project .NET\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.AssemblyInfoInputs.cache
+C:\Project .NET\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.AssemblyInfo.cs
+C:\Project .NET\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.RazorTargetAssemblyInfo.cache
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.pdb
+C:\Project .NET\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.dll
+C:\Project .NET\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.pdb
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\angular.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\e2e\tsconfig.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\package-lock.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\package.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\tsconfig.app.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\tsconfig.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\tsconfig.spec.json
+C:\Project .NET\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\tslint.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.csprojAssemblyReference.cache
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.dll
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.pdb
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\angular.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\e2e\tsconfig.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\package-lock.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\package.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\tsconfig.app.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\tsconfig.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\tsconfig.spec.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\Wonderland\tslint.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.deps.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.runtimeconfig.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.runtimeconfig.dev.json
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.dll
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\bin\Debug\netcoreapp2.2\WonderLandServer.pdb
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.RazorAssemblyInfo.cache
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.RazorAssemblyInfo.cs
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.AssemblyInfoInputs.cache
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.AssemblyInfo.cs
+C:\Users\liron\MyHome\WonderLandServer\WonderLandServer\obj\Debug\netcoreapp2.2\WonderLandServer.RazorTargetAssemblyInfo.cache

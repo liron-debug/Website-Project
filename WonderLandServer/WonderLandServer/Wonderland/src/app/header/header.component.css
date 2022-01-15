@@ -1,0 +1,54 @@
+a {
+    font-size: 22px;
+}
+
+.username {
+    float: right;
+}
+
+.myBadge {
+    border-radius: 40%;
+    padding: 2px 5px 2px 5px;
+    vertical-align: top;
+    margin-left: -10px; 
+    margin-top: -11px;
+}
+
+.searchBox {
+    padding-left: 15px;
+}
+
+.cart {
+    margin-top: 12px;
+}
+
+.acountIcon {
+    margin-right: 3px;
+    align-self: center;
+}
+
+.account{
+    display: inline-flex !important;
+}
+
+.arrowDown {
+    padding-left: 0.5rem !important;
+}
+
+@media (min-width: 992px) {
+    .arrowDown {
+        padding-left: 0 !important;
+    }
+    .cart {
+        padding-left: 15px;
+    }
+}
+
+@media (max-width: 991px) {
+    .acountIcon {
+        align-self: baseline;
+    }
+    .arrowDown {
+        padding-top: 0 !important;
+    }
+}

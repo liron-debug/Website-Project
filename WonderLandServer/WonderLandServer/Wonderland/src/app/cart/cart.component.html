@@ -1,0 +1,36 @@
+<h3 *ngIf="cartArray.length == 0">Your cart is empty...</h3>
+<img *ngIf="cartArray.length == 0" src="assets\emptyCart.jpg" width="250px" height="250px" >
+
+<div *ngIf="cartArray.length != 0" class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Title</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of cartArray">
+                <td> <img src="{{ item.img }}" width="80"></td>
+                <td>{{ item.title }}</td>
+                <td>{{ item.price * item.quantity | currency : 'USD': 'symbol' : '1.2-2' }}</td>
+                <td>
+                    <button class="btn btn-secondary" (click)="addToCart(item)">+</button>
+                    <input class="quantity" type="text" disabled value="{{ item.quantity }}">
+                    <button class="btn btn-secondary" (click)="removeFromCart(item)">-</button>
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th></th>
+                <th></th>
+                <th> {{ totalCost |  currency : 'USD': 'symbol' : '1.2-2'}} </th>
+                <th></th>
+            </tr>
+        </tfoot>
+    </table>
+    <button routerLink="/check-out" class="btn btn-outline-info btn-sm">Send Order</button>
+</div>
